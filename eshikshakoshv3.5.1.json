@@ -1,32 +1,153 @@
-{
-  "dialog_enable": true,
 
-  "title": "eshikshakosh v3.5.1",
-  "descriptions": [
-    "",
-    "👉Open to Enter Buy Key🗝️"
-  ],
-
-  "button_login": "Login",
-  "button_admin": "Contact",
-  "button_copy": "Token ID",
-  "admin_url": "https://google.com",
-
-  "device_section": [
-    {
-      "device_id": "fe841b898286a6a2",
-      "password": "Admin",
-      "expire_date": "2026-12-31"
-    },
-    {
-      "device_id": "4a411c4c160e2291",
-      "password": "Bhuvan01",
-      "expire_date": "2026-03-22"
-    },
-    {
-      "device_id": "offline-device",
-      "password": "1234",
-      "expire_date": "2026-01-01"
-    }
-  ]
-}
+[
+  {
+    "id": "fe841b898286a6a2",
+    "key": "Admin",
+    "expiresAt": "2025-12-25"
+  },
+  {
+    "id": "86d3c8b7638a4789",
+    "key": "Admin",
+    "expiresAt": "2025-12-26"
+  },
+  {
+    "id": "82e8dd496fdb9962",
+    "key": "Ekyc001",
+    "expiresAt": "2025-12-20"
+  }, 
+  {
+    "id": "a57d8e214bcaa3c9",
+    "key": "Ekyc002",
+    "expiresAt": "2026-01-22"
+  },
+  {
+    "id": "60ccd2d2c246462b",
+    "key": "Ekyc003",
+    "expiresAt": "2025-12-22"
+  }, 
+  {
+    "id": "828a5db3a334236a",
+    "key": "Ekyc004",
+    "expiresAt": "2025-12-19"
+  },
+  {
+    "id": "13ded708d9dda5b3",
+    "key": "Ekyc005",
+    "expiresAt": "2025-12-30"
+  },
+  {
+    "id": "722d6baed703202c",
+    "key": "Ekyc006",
+    "expiresAt": "2026-01-11"
+  }, 
+  {
+    "id": "5dde21c774fdb1bf",
+    "key": "Ekyc007",
+    "expiresAt": "2025-12-22"
+  }, 
+  {
+    "id": "8a0e68b42686989e",
+    "key": "Ekyc008",
+    "expiresAt": "2025-12-22"
+  }, 
+  {
+    "id": "ebc7115f3561392e",
+    "key": "Ekyc009",
+    "expiresAt": "2025-12-22"
+  }, 
+  {
+    "id": "b0c26e7158c51e5c",
+    "key": "Ekyc010",
+    "expiresAt": "2026-01-03"
+  }, 
+  {
+    "id": "58603f4240abf591",
+    "key": "Ekyc011",
+    "expiresAt": "2025-12-26"
+  }, 
+  {
+    "id": "ed388bf0dd19d3b4",
+    "key": "Ekyc012",
+    "expiresAt": "2024-12-26"
+  },  
+  {
+    "id": "3e99792210687527",
+    "key": "Ekyc013",
+    "expiresAt": "2026-01-20"
+  }, 
+  {
+    "id": "a0228a3198d4de6d",
+    "key": "Ekyc014",
+    "expiresAt": "2026-02-06"
+  }, 
+  {
+    "id": "fdbec1226f31577b",
+    "key": "Ekyc015",
+    "expiresAt": "2025-12-31"
+  }, 
+  {
+    "id": "3d17220f86bb28e5",
+    "key": "Ekyc016",
+    "expiresAt": "2026-01-20"
+  }, 
+  {
+    "id": "e723a35bee9420dc",
+    "key": "Ekyc017",
+    "expiresAt": "2026-01-20"
+  }, 
+  {
+    "id": "c82b51d2a48ae774",
+    "key": "Ekyc018",
+    "expiresAt": "2026-01-01"
+  }, 
+  {
+    "id": "499990521de52487",
+    "key": "Ekyc019",
+    "expiresAt": "2026-01-05"
+  }, 
+  {
+    "id": "400f208f43530491",
+    "key": "Ekyc020",
+    "expiresAt": "2026-01-02"
+  }, 
+  {
+    "id": "b2dbe32ec84e8352",
+    "key": "Ekyc021",
+    "expiresAt": "2024-12-28"
+  }, 
+  {
+    "id": "b639a70e54a9f9c1",
+    "key": "Ekyc022",
+    "expiresAt": "2025-12-27"
+  }, 
+  {
+    "id": "acc5244bc53c2346",
+    "key": "Ekyc023",
+    "expiresAt": "2025-12-29"
+  }, 
+  {
+    "id": "a2259757f4c6b69b",
+    "key": "Ekyc024",
+    "expiresAt": "2026-01-03"
+  }, 
+  {
+    "id": "2f7540cad048723f",
+    "key": "Ekyc025",
+    "expiresAt": "2026-01-14"
+  }, 
+  {
+    "id": "450c580f70ce98f6",
+    "key": "Ekyc026",
+    "expiresAt": "2026-01-15"
+  }, 
+  {
+    "id": "17d75a8c6f9715bb",
+    "key": "Ekyc027",
+    "expiresAt": "2026-01-20"
+  }, 
+  {
+    "id": "1f28a248f676f804",
+    "key": "Ekyc028",
+    "expiresAt": "2026-02-11"
+  }
+]
