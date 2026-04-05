@@ -1,1 +1,33 @@
-dd
+{
+  "dialog_enable": true,
+
+  "title": "eshikshakosh v3.5.1",
+  "descriptions": [
+    "Remove Mock Location",
+    "👇👇👇👇👇👇👇👇👇",
+    "👉Open to Enter Buy Key🗝️"
+  ],
+
+  "button_login": "Login",
+  "button_admin": "Contact",
+  "button_copy": "Token ID",
+  "admin_url": "https://google.com",
+
+  "device_section": [
+    {
+      "device_id": "fe841b898286a6a2",
+      "password": "Admined",
+      "expire_date": "2026-12-31"
+    },
+    {
+      "device_id": "4a411c4c160e2291",
+      "password": "Bhuvan01",
+      "expire_date": "2026-03-22"
+    },
+    {
+      "device_id": "offline-device",
+      "password": "1234",
+      "expire_date": "2026-01-01"
+    }
+  ]
+}
